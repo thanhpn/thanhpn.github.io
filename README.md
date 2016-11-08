@@ -51,12 +51,12 @@ url: "http://www.jack003.com"
 
 # author
 author:
-  name: 'Jack'
-  first_name: 'Jia'
-  last_name: 'Kun'
-  email: 'me@jack003.com'
-  facebook_username: 'jiakunnj'
-  github_username: 'Jack614'
+  name: 'Tomy'
+  first_name: 'Thanh'
+  last_name: 'Pham'
+  email: 'ngocthanh2207@gmail.com'
+  facebook_username: 'LoveIsPassion2209'
+  github_username: 'thanhpn'
   head_img: 'static/img/landing/Jack.jpg'
 ...
 ```
